@@ -1,8 +1,7 @@
 # 외출/ 외박 관리 프로그램
 - 설명: 외출/외박으로 인한 대리 근무 서 주는 계약을 양방향 그래프 자료구조로 저장하고 완전 탐색 알고리즘을 통해 가장 긴 단방향 사이클을 찾아 복잡하게 연결된 계약을 쉽게 처리 시켜 주는 프로그램입니다.
 
-  <br/>  <br/>  <br/>
-
+  <br/> 
 # 초기화면
 -![image](https://github.com/IAMNOTAHUMANBEING/PASS-Management-System/assets/60809568/fef36d30-d2b6-44b6-89f4-87c58893fed9)<br/><br/><br/>  
 
